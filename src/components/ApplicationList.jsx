@@ -13,7 +13,7 @@ const ApplicationList = () => {
                 <img
                   src={job.companyLogo}
                   alt={job.companyName}
-                  className="w-16 h-16"
+                  className="ml-2 w-16 h-16"
                 />
               </div>
               <div className="ml-4">
